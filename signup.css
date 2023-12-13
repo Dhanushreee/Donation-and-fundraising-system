@@ -1,0 +1,164 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+  form
+  {
+  padding:200px;
+  padding-right: 100px;
+  padding-left: 100px;
+  padding-block-start: 10px;
+  padding-block-end: 50px;
+  height: 600px;
+  width: 300px;
+    margin-top: 100px;
+    margin-left: 800px;
+    border:2px solid #bfbeba;
+    background-color: #f0e7c9;
+  }
+  .input-container input {
+    background-image: url('team.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 30px; 
+    height: 20px; 
+    align-items: start;
+    justify-content: center;
+    border-radius:50px ;
+    background-position: 7px;
+    height: 30px;
+    width: 200px;
+    border-style: solid ;
+    }
+  .input-container1 input {
+    background-image: url("C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\change-password-21.png") ;
+    background-repeat: no-repeat;
+    background-size: 23px; 
+    height: 15px; 
+
+    align-items: start;
+    justify-content: center;
+    border-radius:50px ;
+    height: 30px;
+    width: 300px;
+    background-position: 7px;
+    border-style: solid ;
+    }
+  .input-container2 input {
+    background-image: url("mail-xxl.png") ;
+    background-repeat: no-repeat;
+     background-size: 25px; 
+    height: 20px; 
+  
+    justify-content: center;
+    border-radius:50px ;
+    height: 30px;
+    width: 300px;
+    background-position: 7px;
+    border-style: solid ;
+    }
+  .input-container3 input {
+    background-image: url('C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\png-clipart-mobile-phones-computer-icons-telephone-prepay-mobile-phone-business-mobile-phone-icon-phone-telephone-icon-call-icon-miscellaneous-text-thumbnail.png') ;
+    background-position: 7px;
+    background-repeat: no-repeat;
+    background-size: 30px; /* You can adjust this property based on your design */
+    height: 20px; /* Set a fixed height or adjust as needed */
+    align-items: start;
+  
+    justify-content: center;
+    border-radius:50px ;
+    height: 30px;
+    background-position: 7px;
+    width: 300px;
+    border-style: solid ;
+    }
+  
+  .input-container input {
+    width: 100%; /* Make the input field take up the entire width of the container */
+  }
+  .input-container img {
+    display: none; /* Hide the img element inside .input-container */
+  }
+    
+    
+  input{
+    width: 50%;
+    
+  }
+  
+  @media (prefers-reduced-motion: no-preference) {
+    .App-logo {
+      animation: App-logo-spin infinite 20s linear;
+    }
+  }
+  
+  .App-header {
+    
+    min-height: 0vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    
+    
+  }
+
+  
+  body {
+  
+    background-image: url("C:\Users\Dhanushree\Desktop\iStock-622065910-1084x723-1024x683.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+   
+  
+  .App-link {
+    color: #61dafb;
+  }
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  input
+  {
+    border-radius:70px ;
+    height: 10px;
+    width: 200px;
+    border-style: solid ;
+    
+
+  
+  }
+ text
+  {
+    padding-inline-start: 30px;
+  }
+ 
+
+/* Style the input container */
+
+
+/* Style the form icons */
+.icon {
+  padding: 10px;
+background-image: url("C:\Users\Dhanushree\Desktop\team.jpg");
+ 
+  min-width: 50px;
+
+}
+
+
+
+
