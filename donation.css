@@ -1,0 +1,46 @@
+ .aks form
+  {
+   
+  padding:200px;
+ 
+  height: 300px;
+  width: 300px;
+    margin-top: 60px;
+    margin-left: 450px;  
+     border:2px solid #bfbeba;
+     background-color: #b9bcbd;
+     inset-inline-start: 30px;
+     padding-block-start: 30px;
+     
+
+   
+ 
+  }
+  .dd2 input{
+    height: 30px;
+    width: 20%;
+    border-radius: 10px;
+  }
+  .dd1 input
+  {
+width: 70%;
+height:30px;
+
+  }
+  .ddd button
+  {
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    background-color: rgb(172, 236, 172);
+  }
+  body {
+  
+    background-image: url("C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\Wallpaper\wallpaper.webp") ;
+    
+   
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
