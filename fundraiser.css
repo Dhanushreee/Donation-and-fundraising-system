@@ -1,0 +1,92 @@
+body {
+  
+    background-image: url("C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\Wallpaper\wallpaper.webp") ;
+    
+   
+
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+   .fr  form
+  {
+   
+  padding:200px;
+  padding-left: 100px;
+
+  padding-block-start: 10px;
+  padding-block-end: 50px;
+  height: 500px;
+  width: 270px;
+    margin-top: 80px;
+    margin-left: 500px;  
+     border:2px solid #bfbeba;
+     
+     background-color: #b9bcbd;
+
+   
+ 
+  }
+    .d1
+    {
+       
+        inset-block-start: 10px;
+        margin-top: 50px;
+    width: 150%;
+    padding-bottom: 20px;
+        background-color: rgb(172, 236, 172);
+    }
+    
+    .d2
+    {
+        margin-top: 30px;
+    
+        width: 150%;
+    padding-bottom: 30px;
+   height: 30px;
+  
+
+       
+   background-color: rgb(172, 236, 172);
+    }
+    .m1{
+        margin-top: 30px;
+    
+        width: 150%;
+    padding-bottom: 30px;
+   height: 30px;
+  
+
+       
+   background-color: rgb(172, 236, 172);
+    }
+.fr button
+{
+    border-radius: 15px;
+    height: 40px;
+    width: 40%;
+    font-size: 100%;
+
+}
+.fr select
+{
+    height: 20px;
+    width: 100px;
+}
+.fr input{
+    width: 50%;
+}
+.aa{
+    background-color: rgb(172, 236, 172);
+          width: 400px;
+          height: 80px;
+}  
+.aa input
+{
+    height:30px;
+}
+
+.fr button
+{
+    height: 40px;
+}
