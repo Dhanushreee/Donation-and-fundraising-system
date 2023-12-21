@@ -1,0 +1,46 @@
+body {
+  
+  background-image: url("C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\Wallpaper\wallpaper.webp") ;
+  
+ 
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+   .sf  form
+  {
+   
+  padding:200px;
+  padding-left: 100px;
+
+
+  padding-block-start: 10px;
+  padding-block-end: 50px;
+  height: 700px;
+  width: 400px;
+    margin-top: 60px;
+    margin-left: 520px;  
+     border:2px solid #bfbeba;
+     background-color:#bfbeba;
+     
+     
+     
+    }
+    .sf input{
+      height: 40px;
+      width: 100%;
+    }
+    
+    .sf select
+    {
+      height: 50px;
+      width: 100%;
+    }
+    .sf button
+    {
+      height: 50px;
+      width: 200px;
+    }
+   
+  

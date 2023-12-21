@@ -1,0 +1,44 @@
+body {
+  
+  background-image: url("C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\Wallpaper\wallpaper.webp") ;
+  
+ 
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+
+ .h button{
+    align-items: center;
+  
+    inset-inline-start: 80%;
+border-radius: 30px;
+height: 50px;
+width: 250px;
+background-color:rgb(173, 227, 173);
+font-size: 180%;
+  }
+
+.h form
+{
+  margin-top: 100px;
+  margin-left: 30%;
+  width: 450px;
+  height: 400px;
+  padding-right:  50px;
+  
+ background-color: rgb(166, 166, 166);
+}
+
+body {
+  
+  background-image: url("C:\Users\Dhanushree\Desktop\reactprojecr\myapp\src\Wallpaper\wallpaper.webp") ;
+  
+ 
+
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
